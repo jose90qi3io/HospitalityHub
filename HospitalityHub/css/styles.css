@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulos{
+    text-align: center;
+    padding-top: 9vh;
+}
+.container{
+    margin-top: 10vh;
+    margin-bottom: 17vh;
+    display: grid;
+    grid-template-columns: 30vh 30vh 30vh 30vh;
+    gap: 6vh;
+    justify-content: center;
+    
+}
+.cards{
+    padding: .5rem;
+}
