@@ -1,0 +1,17 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.titulos{
+    text-align: center;
+    padding-top: 12vh;
+}
+.conteiner{
+    padding-top: 9rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content: center;
+}
